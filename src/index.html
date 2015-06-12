@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="../bower_components/normalize.css/normalize.css" />
   <!-- endbower -->
   <link rel="stylesheet" href="css/main.css">
+  <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
 
 </head>
 
@@ -37,16 +38,20 @@
       <div id="container">
 
         <section>
-          <ul>
-            <li>
+          <ul id="tabs">
+            <li class="info">
               <button id="weather" class="button">
-                <h3>Weather</h3>
+                <h3 class="weather-header">
+                  <img src="img/weather.png"> Weather
+
+                </h3>
               </button>
               <p>Stormy and a chance of Rain</p>
             </li>
-            <li>
+            <li class="info">
               <button id="nytimes" class="button">
-                <h3>nytimes</h3>
+                <h3 class="nytimes-header">
+                  <img src="img/news.png"> NY Times</h3>
               </button>
               <p>Newsflash!!! Phil and Jorge are awesome</p>
             </li>

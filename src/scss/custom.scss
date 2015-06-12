@@ -1,3 +1,40 @@
-p{
-  color:blue;
+body{
+  font-family: 'Cabin', sans-serif;
 }
+
+#container{
+
+}
+#tabs{ //UL's
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.info{//Li's
+  list-style: none;
+}
+button{
+  width: 100%;
+  margin: 0;
+}
+
+img{
+  width: 1em;
+}
+/* .weather-header::before{
+  content: url(../img/weather.png)
+}
+.news-header::before{
+  content: url(../img/news.png)
+
+}
+.weather-header{
+  width: 10px;
+  height: 1%;
+}
+
+.news-header{
+  width: 1%;
+  height: 1%;
+} */

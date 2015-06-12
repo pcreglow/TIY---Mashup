@@ -86,9 +86,44 @@ textarea {
    Author's custom styles
    ========================================================================== */
 /* line 1, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
-p {
-  color: blue; }
+body {
+  font-family: 'Cabin', sans-serif; }
 
+/* line 8, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+#tabs {
+  display: block;
+  margin: 0;
+  padding: 0; }
+
+/* line 14, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.info {
+  list-style: none; }
+
+/* line 17, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+button {
+  width: 100%;
+  margin: 0; }
+
+/* line 22, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+img {
+  width: 1em; }
+
+/* .weather-header::before{
+  content: url(../img/weather.png)
+}
+.news-header::before{
+  content: url(../img/news.png)
+
+}
+.weather-header{
+  width: 10px;
+  height: 1%;
+}
+
+.news-header{
+  width: 1%;
+  height: 1%;
+} */
 /* line 1, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
 .grid {
   max-width: 100%;
