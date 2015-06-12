@@ -9,32 +9,25 @@ body{
   display: block;
   margin: 0;
   padding: 0;
+  height: 40em;
 }
 
 .info{//Li's
   list-style: none;
+  height: 20em;
 }
 button{
   width: 100%;
   margin: 0;
 }
 
+#weather {
+  background-image: linear-gradient(to top, #CFD1D0, #696165);
+}
+
+#nytimes {
+  background-image: linear-gradient(to top, #CFD1D0, #696165);
+}
 img{
   width: 1em;
 }
-/* .weather-header::before{
-  content: url(../img/weather.png)
-}
-.news-header::before{
-  content: url(../img/news.png)
-
-}
-.weather-header{
-  width: 10px;
-  height: 1%;
-}
-
-.news-header{
-  width: 1%;
-  height: 1%;
-} */
