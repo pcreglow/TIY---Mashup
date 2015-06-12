@@ -1,20 +1,17 @@
 /*! HTML5 Boilerplate v5.1.0 | MIT License | https://html5boilerplate.com/ */
-
 /*
  * What follows is the result of much research on cross-browser styling.
  * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
  * Kroc Camen, and the H5BP dev community and team.
  */
-
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-
+/* line 13, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 html {
-    color: #222;
-    font-size: 1em;
-    line-height: 1.4;
-}
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4; }
 
 /*
  * Remove text-shadow in selection highlight:
@@ -23,145 +20,141 @@ html {
  * These selection rule sets have to be separate.
  * Customize the background color to match your design.
  */
-
+/* line 27, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 ::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
+  background: #b3d4fc;
+  text-shadow: none; }
 
+/* line 32, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 ::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
+  background: #b3d4fc;
+  text-shadow: none; }
 
 /*
  * A better looking default horizontal rule
  */
-
+/* line 41, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; }
 
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:
  * https://github.com/h5bp/html5-boilerplate/issues/440
  */
-
+/* line 61, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 audio,
 canvas,
 iframe,
 img,
 svg,
 video {
-    vertical-align: middle;
-}
+  vertical-align: middle; }
 
 /*
  * Remove default fieldset styles.
  */
-
+/* line 69, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 fieldset {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
+  border: 0;
+  margin: 0;
+  padding: 0; }
 
 /*
  * Allow only vertical resizing of textareas.
  */
-
+/* line 79, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 textarea {
-    resize: vertical;
-}
+  resize: vertical; }
 
 /* ==========================================================================
    Browser Upgrade Prompt
    ========================================================================== */
-
+/* line 87, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .browserupgrade {
-    margin: 0.2em 0;
-    background: #ccc;
-    color: #000;
-    padding: 0.2em 0;
-}
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0; }
 
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/* line 1, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+p {
+  color: blue; }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* line 1, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
+.grid {
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: lightgrey;
+  outline: 2px solid cornflowerblue; }
+  /* line 7, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
+  .grid .unit, .grid .unit-span-3, .grid .unit-span-1 {
+    outline: 2px solid blue;
+    float: left;
+    width: 20%;
+    box-sizing: border-box;
+    text-align: center; }
+  /* line 14, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
+  .grid .unit-span-3 {
+    width: 60%; }
+  /* line 18, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
+  .grid .unit-span-1 {
+    width: 20%; }
 
 /* ==========================================================================
    Helper classes
    ========================================================================== */
-
 /*
  * Hide visually and from screen readers:
  */
-
+/* line 122, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .hidden {
-    display: none !important;
-}
+  display: none !important; }
 
 /*
  * Hide only visually, but have it available for screen readers:
  * http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
  */
-
+/* line 131, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .visuallyhidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-}
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
 
 /*
  * Extends the .visuallyhidden class to allow the element
  * to be focusable when navigated to via the keyboard:
  * https://www.drupal.org/node/897638
  */
-
+/* line 149, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
-}
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto; }
 
 /*
  * Hide visually and from screen readers, but maintain layout
  */
-
+/* line 162, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .invisible {
-    visibility: hidden;
-}
+  visibility: hidden; }
 
 /*
  * Clearfix: contain floats
@@ -174,106 +167,83 @@ textarea {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
-
+/* line 179, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .clearfix:before,
 .clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
-}
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
 
+/* line 184, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .clearfix:after {
-    clear: both;
-}
+  clear: both; }
 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
-
-@media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
-}
-
-@media print,
-       (-webkit-min-device-pixel-ratio: 1.25),
-       (min-resolution: 120dpi) {
-    /* Style adjustments for high resolution devices */
-}
-
 /* ==========================================================================
    Print styles.
    Inlined to avoid the additional HTTP request:
    http://www.phpied.com/delay-loading-your-print-css/
    ========================================================================== */
-
 @media print {
-    *,
-    *:before,
-    *:after {
-        background: transparent !important;
-        color: #000 !important; /* Black prints faster:
+  /* line 213, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    color: #000 !important;
+    /* Black prints faster:
                                    http://www.sanbeiji.com/archives/953 */
-        box-shadow: none !important;
-        text-shadow: none !important;
-    }
-
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
-
-    a[href]:after {
-        content: " (" attr(href) ")";
-    }
-
-    abbr[title]:after {
-        content: " (" attr(title) ")";
-    }
-
-    /*
+    box-shadow: none !important;
+    text-shadow: none !important; }
+  /* line 222, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  a,
+  a:visited {
+    text-decoration: underline; }
+  /* line 226, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  a[href]:after {
+    content: " (" attr(href) ")"; }
+  /* line 230, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  abbr[title]:after {
+    content: " (" attr(title) ")"; }
+  /*
      * Don't show links that are fragment identifiers,
      * or use the `javascript:` pseudo protocol
      */
-
-    a[href^="#"]:after,
-    a[href^="javascript:"]:after {
-        content: "";
-    }
-
-    pre,
-    blockquote {
-        border: 1px solid #999;
-        page-break-inside: avoid;
-    }
-
-    /*
+  /* line 240, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+    content: ""; }
+  /* line 245, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid; }
+  /*
      * Printing Tables:
      * http://css-discuss.incutio.com/wiki/Printing_Tables
      */
-
-    thead {
-        display: table-header-group;
-    }
-
-    tr,
-    img {
-        page-break-inside: avoid;
-    }
-
-    img {
-        max-width: 100% !important;
-    }
-
-    p,
-    h2,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
-
-    h2,
-    h3 {
-        page-break-after: avoid;
-    }
-}
+  /* line 255, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  thead {
+    display: table-header-group; }
+  /* line 260, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  tr,
+  img {
+    page-break-inside: avoid; }
+  /* line 264, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  img {
+    max-width: 100% !important; }
+  /* line 270, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3; }
+  /* line 276, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  h2,
+  h3 {
+    page-break-after: avoid; } }
