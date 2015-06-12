@@ -1,49 +1,45 @@
-body{
+body {
   font-family: 'Cabin', sans-serif;
 }
-
-#container{
+#container {
 
 }
-#tabs{ //UL's
+#tabs {
+  //UL's
   display: block;
   margin: 0;
   padding: 0;
-
 }
-
-.tab-1{//Li's
+.tab-1 {
+  //Li's
   list-style: none;
   .active-content {
     height: 20em;
   }
 }
-.tab-2{//Li's
+.tab-2 {
+  //Li's
   list-style: none;
   .active-content {
     height: 20em;
   }
 }
-button{
+button {
   width: 100%;
   margin: 0;
 }
-
 #weather {
   background-image: linear-gradient(to top, #CFD1D0, #696165);
 }
-
 #nytimes {
   background-image: linear-gradient(to top, #CFD1D0, #696165);
 }
-img{
+img {
   width: 1em;
 }
-
 .active-content {
   display: block;
 }
-
 .inactive-content {
   display: none;
 }
