@@ -9,12 +9,20 @@ body{
   display: block;
   margin: 0;
   padding: 0;
-  height: 40em;
+
 }
 
-.info{//Li's
+.tab-1{//Li's
   list-style: none;
-  height: 20em;
+  .active-content {
+    height: 20em;
+  }
+}
+.tab-2{//Li's
+  list-style: none;
+  .active-content {
+    height: 20em;
+  }
 }
 button{
   width: 100%;
@@ -30,4 +38,12 @@ button{
 }
 img{
   width: 1em;
+}
+
+.active-content {
+  display: block;
+}
+
+.inactive-content {
+  display: none;
 }

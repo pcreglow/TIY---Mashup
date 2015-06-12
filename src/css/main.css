@@ -83,12 +83,17 @@ body {
 #tabs {
   display: block;
   margin: 0;
-  padding: 0;
-  height: 40em; }
+  padding: 0; }
 
-.info {
-  list-style: none;
-  height: 20em; }
+.tab-1 {
+  list-style: none; }
+  .tab-1 .active-content {
+    height: 20em; }
+
+.tab-2 {
+  list-style: none; }
+  .tab-2 .active-content {
+    height: 20em; }
 
 button {
   width: 100%;
@@ -102,6 +107,12 @@ button {
 
 img {
   width: 1em; }
+
+.active-content {
+  display: block; }
+
+.inactive-content {
+  display: none; }
 
 .grid {
   max-width: 100%;
