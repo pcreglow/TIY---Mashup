@@ -97,52 +97,98 @@ body {
 
 /* line 13, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .tab-1 {
-  list-style: none; }
-  /* line 16, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+  list-style: none;
+  padding-bottom: 5em; }
+  /* line 17, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
   .tab-1 .active-content {
     height: 20em; }
 
-/* line 20, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+/* line 22, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .tab-2 {
-  list-style: none; }
-  /* line 23, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+  list-style: none;
+  padding-bottom: 5em; }
+  /* line 26, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
   .tab-2 .active-content {
     height: 20em; }
 
-/* line 27, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+/* line 30, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 button {
   width: 100%;
   margin: 0; }
 
-/* line 31, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+/* line 34, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 #weather {
   background-image: linear-gradient(to top, #CFD1D0, #696165); }
 
-/* line 34, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+/* line 37, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 #nytimes {
   background-image: linear-gradient(to top, #CFD1D0, #696165); }
 
-/* line 37, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+/* line 40, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 img {
   width: 1em; }
 
-/* line 40, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+/* line 43, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .active-content {
   display: block; }
 
-/* line 43, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+/* line 46, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .inactive-content {
   display: none; }
+
+/* line 49, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+#weather-data {
+  display: inline-block;
+  list-style: none; }
+
+/* line 53, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.cityName {
+  font-size: 2em;
+  font-weight: bold;
+  text-decoration: underline; }
+
+/* line 58, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.cityTemp {
+  float: left;
+  position: relative;
+  right: 10em;
+  top: 2em;
+  font-size: 1.5em; }
+
+/* line 66, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.cityDescription {
+  float: right;
+  position: relative;
+  left: 8.5em;
+  top: 2em;
+  font-size: 1.5em; }
+
+/* line 73, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.active-content {
+  display: block; }
+
+/* line 76, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.articleTitle {
+  font-size: 2em; }
+
+/* line 79, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.articleAbstract {
+  color: darkgrey;
+  float: left; }
+
+/* line 84, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.articleUrl {
+  color: black; }
 
 /* line 1, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
 .grid {
   max-width: 100%;
   margin: 0 auto;
-  background-color: lightgrey;
-  outline: 2px solid cornflowerblue; }
+  /*   background-color: lightgrey;
+   outline: 2px solid cornflowerblue;*/ }
   /* line 7, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
   .grid .unit, .grid .unit-span-3, .grid .unit-span-1 {
-    outline: 2px solid blue;
+    /* outline: 2px solid blue; */
     float: left;
     width: 20%;
     box-sizing: border-box;
