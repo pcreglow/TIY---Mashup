@@ -4,8 +4,12 @@
   $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?&tags=nyc&lang=en-us&format=json&jsoncallback=?").then(function(photos) {
 
 
-    $background = ('.background');
-    $background.text(photos.items[0].title);
+    $title = ('.title');
+    $title.text(photos.items[0].title);
+
+
+    // $cityTemp = $('.cityTemp');
+    // $cityTemp.text(weather.main.temp);
 
   });
 
