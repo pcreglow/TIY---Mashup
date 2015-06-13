@@ -1,7 +1,11 @@
 body {
   font-family: 'Cabin', sans-serif;
 }
+.flickr {
+  width: 10em;
 
+  z-index: auto;
+}
 #tabs {
   //UL's
   display: block;
