@@ -1,22 +1,11 @@
-function(window) {
-
-  $(document).ready(function() {
+$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?&tags=nyc&lang=en-us&format=json&jsoncallback=?").then(function(photos) {
 
 
-    $.getJSON("https: //api.flickr.com/services/feeds/photos_public.gne", format = json, tags: "New York").then(function() {
-
-      // $('body')
-
-
-    });
+  $title = ('.title');
+  $title.text(photos.items[0].title);
 
 
+  // $cityTemp = $('.cityTemp');
+  // $cityTemp.text(weather.main.temp);
 
-
-
-
-
-
-  }); //End of document ready function
-
-})(window);
+});
