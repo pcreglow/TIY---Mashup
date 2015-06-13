@@ -1,9 +1,7 @@
 // (function(window) {
 
-// var appId = zJmZqZ4i;
 
-
-$.getJSON("http://api.openweathermap.org/data/2.5/weather?zip=10007,us").then(function(weather) {
+$.getJSON("http://api.openweathermap.org/data/2.5/weather?zip=10007,us&units=imperial").then(function(weather) {
 
   $name = $('.cityName');
   $name.text(weather.name);
@@ -13,6 +11,8 @@ $.getJSON("http://api.openweathermap.org/data/2.5/weather?zip=10007,us").then(fu
 
   $cityDescription = $('.cityDescription');
   $cityDescription.text(weather.weather[0].description);
+
+
 
 });
 
