@@ -2,8 +2,8 @@ $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?&tags=nyc&lang
 
   console.log(photos);
 
-  $media = $('.media');
-  $media.text(photos.items[0].title);
+  $media = $('img#media');
+  $media.attr('src', photos.items[0].media.m);
 
   // $name = $('.cityName');
   // $name.text(weather.name);

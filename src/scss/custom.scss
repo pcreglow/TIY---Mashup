@@ -1,9 +1,7 @@
 body {
   font-family: 'Cabin', sans-serif;
 }
-#container {
 
-}
 #tabs {
   //UL's
   display: block;
@@ -37,7 +35,7 @@ button {
 #nytimes {
   background-image: linear-gradient(to top, #CFD1D0, #696165);
 }
-img {
+.icon {
   width: 1em;
 }
 .active-content {
