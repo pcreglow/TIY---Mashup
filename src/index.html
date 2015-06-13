@@ -47,7 +47,11 @@
               </button>
 
               <div class="inactive-content">
-                <p>Stormy and a chance of Rain</p>
+                <ul id="weather-data">
+                  <li class="cityName">{{name}}</li>
+                  <li class="cityTemp">{{temp}}</li>
+                  <li class="cityDescription">{{description}}</li>
+                </ul>
               </div>
 
             </li>
@@ -85,6 +89,8 @@
   <!-- endbower -->
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/weather.js"></script>
+
 
 </body>
 
