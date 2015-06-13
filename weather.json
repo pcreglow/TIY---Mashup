@@ -1,0 +1,39 @@
+{
+  "coord": {
+    "lon": -74.01,
+    "lat": 40.71
+  },
+  "sys": {
+    "message": 0.0129,
+    "country": "US",
+    "sunrise": 1434187449,
+    "sunset": 1434241692
+  },
+  "weather": [{
+    "id": 802,
+    "main": "Clouds",
+    "description": "scattered clouds",
+    "icon": "03d"
+  }],
+  "base": "stations",
+  "main": {
+    "temp": 300.889,
+    "temp_min": 300.889,
+    "temp_max": 300.889,
+    "pressure": 1020.98,
+    "sea_level": 1024.63,
+    "grnd_level": 1020.98,
+    "humidity": 57
+  },
+  "wind": {
+    "speed": 2.87,
+    "deg": 314.502
+  },
+  "clouds": {
+    "all": 36
+  },
+  "dt": 1434207650,
+  "id": 0,
+  "name": "New York City",
+  "cod": 200
+}
