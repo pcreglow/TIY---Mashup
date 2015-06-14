@@ -1,8 +1,11 @@
 body {
   font-family: 'Cabin', sans-serif;
 }
-#container {
 
+.flickr {
+  width: 10em;
+
+  z-index: auto;
 }
 #tabs {
   //UL's
@@ -37,7 +40,7 @@ button {
 #nytimes {
   background-image: linear-gradient(to top, #CFD1D0, #696165);
 }
-img {
+.icon {
   width: 1em;
 }
 .nyt {
@@ -78,6 +81,7 @@ img {
 }
 .articleTitle{
   font-size: 2em;
+  text-decoration: underline;
 }
 .articleAbstract{
   color: darkgrey;
