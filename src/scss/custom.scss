@@ -79,15 +79,15 @@ button {
 .active-content{
   display: block;
 }
-.articleTitle{
+.articleTitle-1, .articleTitle-2,.articleTitle-3,.articleTitle-4,{
   font-size: 2em;
   text-decoration: underline;
 }
-.articleAbstract{
-  color: darkgrey;
+.articleAbstract-1,.articleAbstract-2,.articleAbstract-3,.articleAbstract-4,{
+  color: black;
   float: left;
 
 }
-.articleUrl{
-  color: black;
+.articleUrl-1,.articleUrl-2,.articleUrl-3,.articleUrl-4{
+  color: darkgrey;
 }

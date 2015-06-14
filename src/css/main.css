@@ -1,22 +1,17 @@
 /*! HTML5 Boilerplate v5.1.0 | MIT License | https://html5boilerplate.com/ */
-
-
 /*
  * What follows is the result of much research on cross-browser styling.
  * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
  * Kroc Camen, and the H5BP dev community and team.
  */
-
-
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-
+/* line 13, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 html {
   color: #222;
   font-size: 1em;
-  line-height: 1.4;
-}
+  line-height: 1.4; }
 
 /*
  * Remove text-shadow in selection highlight:
@@ -25,201 +20,211 @@ html {
  * These selection rule sets have to be separate.
  * Customize the background color to match your design.
  */
-
+/* line 27, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 ::-moz-selection {
   background: #b3d4fc;
-  text-shadow: none;
-}
+  text-shadow: none; }
+
+/* line 32, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 ::selection {
   background: #b3d4fc;
-  text-shadow: none;
-}
+  text-shadow: none; }
 
 /*
  * A better looking default horizontal rule
  */
-
+/* line 41, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 hr {
   display: block;
   height: 1px;
   border: 0;
   border-top: 1px solid #ccc;
   margin: 1em 0;
-  padding: 0;
-}
+  padding: 0; }
 
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:
  * https://github.com/h5bp/html5-boilerplate/issues/440
  */
-
-audio, canvas, iframe, img, svg, video {
-  vertical-align: middle;
-}
+/* line 61, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle; }
 
 /*
  * Remove default fieldset styles.
  */
-
+/* line 69, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 fieldset {
   border: 0;
   margin: 0;
-  padding: 0;
-}
+  padding: 0; }
 
 /*
  * Allow only vertical resizing of textareas.
  */
-
+/* line 79, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 textarea {
-  resize: vertical;
-}
+  resize: vertical; }
 
 /* ==========================================================================
    Browser Upgrade Prompt
    ========================================================================== */
-
+/* line 87, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .browserupgrade {
   margin: 0.2em 0;
   background: #ccc;
   color: #000;
-  padding: 0.2em 0;
-}
+  padding: 0.2em 0; }
 
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+/* line 1, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 body {
-  font-family: 'Cabin', sans-serif;
-}
+  font-family: 'Cabin', sans-serif; }
+
+/* line 5, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .flickr {
   width: 10em;
-  z-index: auto;
-}
+  z-index: auto; }
+
+/* line 10, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 #tabs {
   display: block;
   margin: 0;
-  padding: 0;
-}
+  padding: 0; }
+
+/* line 16, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .tab-1 {
   list-style: none;
-  padding-bottom: 5em;
-}
-.tab-1 .active-content {
-  height: 20em;
-}
+  padding-bottom: 5em; }
+  /* line 20, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+  .tab-1 .active-content {
+    height: 20em; }
+
+/* line 25, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .tab-2 {
   list-style: none;
-  padding-bottom: 5em;
-}
-.tab-2 .active-content {
-  height: 20em;
-}
+  padding-bottom: 5em; }
+  /* line 29, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+  .tab-2 .active-content {
+    height: 20em; }
+
+/* line 33, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 button {
   width: 100%;
-  margin: 0;
-}
+  margin: 0; }
+
+/* line 37, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 #weather {
-  background-image: linear-gradient(to top, #CFD1D0, #696165);
-}
+  background-image: linear-gradient(to top, #CFD1D0, #696165); }
+
+/* line 40, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 #nytimes {
-  background-image: linear-gradient(to top, #CFD1D0, #696165);
-}
+  background-image: linear-gradient(to top, #CFD1D0, #696165); }
+
+/* line 43, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .icon {
-  width: 1em;
-}
-.active-content {
-  display: block;
-}
-.inactive-content {
-  display: none;
-}
-#weather {
-  background-image: linear-gradient(to top, #CFD1D0, #696165);
-}
-#nytimes {
-  background-image: linear-gradient(to top, #CFD1D0, #696165);
-}
-img {
-  width: 1em;
-}
+  width: 1em; }
+
+/* line 46, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .nyt {
-  width: 10em;
-}
+  width: 10em; }
+
+/* line 49, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.active-content {
+  display: block; }
+
+/* line 52, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.inactive-content {
+  display: none; }
+
+/* line 55, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 #weather-data {
   display: inline-block;
-  list-style: none;
-}
+  list-style: none; }
+
+/* line 59, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .cityName {
   font-size: 2em;
   font-weight: bold;
-  text-decoration: underline;
-}
+  text-decoration: underline; }
+
+/* line 64, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .cityTemp {
   float: left;
   position: relative;
   right: 10em;
   top: 2em;
-  font-size: 1.5em;
-}
+  font-size: 1.5em; }
+
+/* line 72, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
 .cityDescription {
   float: right;
   position: relative;
   left: 8.5em;
   top: 2em;
-  font-size: 1.5em;
-}
-.articleTitle {
+  font-size: 1.5em; }
+
+/* line 79, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.active-content {
+  display: block; }
+
+/* line 82, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.articleTitle-1, .articleTitle-2, .articleTitle-3, .articleTitle-4 {
   font-size: 2em;
-  text-decoration: underline;
-}
-.articleAbstract {
-  color: darkgrey;
-  float: left;
-}
-.articleUrl {
+  text-decoration: underline; }
+
+/* line 86, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.articleAbstract-1, .articleAbstract-2, .articleAbstract-3, .articleAbstract-4 {
   color: black;
-}
+  float: left; }
+
+/* line 91, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/custom.scss */
+.articleUrl-1, .articleUrl-2, .articleUrl-3, .articleUrl-4 {
+  color: darkgrey; }
+
+/* line 1, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
 .grid {
   max-width: 100%;
   margin: 0 auto;
   /*   background-color: lightgrey;
-   outline: 2px solid cornflowerblue;*/
-}
-.grid .unit, .grid .unit-span-3, .grid .unit-span-1 {
-  /* outline: 2px solid blue; */
-  float: left;
-  width: 20%;
-  box-sizing: border-box;
-  text-align: center;
-}
-.grid .unit-span-3 {
-  width: 60%;
-}
-.grid .unit-span-1 {
-  width: 20%;
-}
+   outline: 2px solid cornflowerblue;*/ }
+  /* line 7, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
+  .grid .unit, .grid .unit-span-3, .grid .unit-span-1 {
+    /* outline: 2px solid blue; */
+    float: left;
+    width: 20%;
+    box-sizing: border-box;
+    text-align: center; }
+  /* line 14, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
+  .grid .unit-span-3 {
+    width: 60%; }
+  /* line 18, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/grid.scss */
+  .grid .unit-span-1 {
+    width: 20%; }
 
 /* ==========================================================================
    Helper classes
    ========================================================================== */
-
-
 /*
  * Hide visually and from screen readers:
  */
-
+/* line 122, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .hidden {
-  display: none !important;
-}
+  display: none !important; }
 
 /*
  * Hide only visually, but have it available for screen readers:
  * http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
  */
-
+/* line 131, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -228,31 +233,29 @@ img {
   overflow: hidden;
   padding: 0;
   position: absolute;
-  width: 1px;
-}
+  width: 1px; }
 
 /*
  * Extends the .visuallyhidden class to allow the element
  * to be focusable when navigated to via the keyboard:
  * https://www.drupal.org/node/897638
  */
-
-.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus {
+/* line 149, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
   clip: auto;
   height: auto;
   margin: 0;
   overflow: visible;
   position: static;
-  width: auto;
-}
+  width: auto; }
 
 /*
  * Hide visually and from screen readers, but maintain layout
  */
-
+/* line 162, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .invisible {
-  visibility: hidden;
-}
+  visibility: hidden; }
 
 /*
  * Clearfix: contain floats
@@ -265,77 +268,83 @@ img {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
-
-.clearfix:before, .clearfix:after {
+/* line 179, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+.clearfix:before,
+.clearfix:after {
   content: " ";
   /* 1 */
   display: table;
-  /* 2 */
-}
+  /* 2 */ }
+
+/* line 184, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
 .clearfix:after {
-  clear: both;
-}
+  clear: both; }
 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
-
-
 /* ==========================================================================
    Print styles.
    Inlined to avoid the additional HTTP request:
    http://www.phpied.com/delay-loading-your-print-css/
    ========================================================================== */
-
 @media print {
-  *, *:before, *:after {
+  /* line 213, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  *,
+  *:before,
+  *:after {
     background: transparent !important;
     color: #000 !important;
     /* Black prints faster:
                                    http://www.sanbeiji.com/archives/953 */
     box-shadow: none !important;
-    text-shadow: none !important;
-  }
-  a, a:visited {
-    text-decoration: underline;
-  }
+    text-shadow: none !important; }
+  /* line 222, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  a,
+  a:visited {
+    text-decoration: underline; }
+  /* line 226, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
   a[href]:after {
-    content: " (" attr(href) ")";
-  }
+    content: " (" attr(href) ")"; }
+  /* line 230, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
   abbr[title]:after {
-    content: " (" attr(title) ")";
-  }
+    content: " (" attr(title) ")"; }
   /*
      * Don't show links that are fragment identifiers,
      * or use the `javascript:` pseudo protocol
      */
-  a[href^="#"]:after, a[href^="javascript:"]:after {
-    content: "";
-  }
-  pre, blockquote {
+  /* line 240, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+    content: ""; }
+  /* line 245, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  pre,
+  blockquote {
     border: 1px solid #999;
-    page-break-inside: avoid;
-  }
+    page-break-inside: avoid; }
   /*
      * Printing Tables:
      * http://css-discuss.incutio.com/wiki/Printing_Tables
      */
+  /* line 255, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
   thead {
-    display: table-header-group;
-  }
-  tr, img {
-    page-break-inside: avoid;
-  }
+    display: table-header-group; }
+  /* line 260, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  tr,
   img {
-    max-width: 100% !important;
-  }
-  p, h2, h3 {
+    page-break-inside: avoid; }
+  /* line 264, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  img {
+    max-width: 100% !important; }
+  /* line 270, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  p,
+  h2,
+  h3 {
     orphans: 3;
-    widows: 3;
-  }
-  h2, h3 {
-    page-break-after: avoid;
-  }
-}
+    widows: 3; }
+  /* line 276, /Users/jorgehernandez/Projects/TIY-Mashup/src/scss/main.scss */
+  h2,
+  h3 {
+    page-break-after: avoid; } }
