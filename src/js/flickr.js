@@ -1,4 +1,4 @@
-$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?&tags=nyc&lang=en-us&format=json&jsoncallback=?").then(function(photos) {
+$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?&tags=nyc,1024&lang=en-us&format=json&jsoncallback=?").then(function(photos) {
 
   console.log(photos);
 
