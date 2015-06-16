@@ -1,0 +1,1109 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2015 The New York Times Company.  All Rights Reserved.",
+  "num_results": 24,
+  "results": [{
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Dallas Police Targeted in Shooting Outside Headquarters",
+    "abstract": "Multiple gunmen opened fire on officers outside the Dallas Police headquarters early Saturday morning.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/dallas-police-shooting.html",
+    "byline": "By MANNY FERNANDEZ and KATIE ROGERS",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/DALLAS-POLICE-CAR-TIGHT\/DALLAS-POLICE-CAR-TIGHT-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T09:13:24-04:00",
+    "created_date": "2015-06-13T07:23:07-04:00",
+    "published_date": "2015-06-14T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Police", "Social Media"],
+    "org_facet": "",
+    "per_facet": "",
+    "geo_facet": ["Dallas (Tex)"],
+    "related_urls": null,
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/DALLAS-POLICE-CAR-TIGHT\/DALLAS-POLICE-CAR-TIGHT-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "A Dallas Police Department squad car that was shot at on Saturday morning. No officers were injured.",
+      "copyright": "Dallas Police Department"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/DALLAS-POLICE-CAR-TIGHT\/DALLAS-POLICE-CAR-TIGHT-articleInline.jpg",
+      "format": "Normal",
+      "height": 143,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "A Dallas Police Department squad car that was shot at on Saturday morning. No officers were injured.",
+      "copyright": "Dallas Police Department"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/DALLAS-POLICE-CAR-TIGHT\/DALLAS-POLICE-CAR-TIGHT-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "A Dallas Police Department squad car that was shot at on Saturday morning. No officers were injured.",
+      "copyright": "Dallas Police Department"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/DALLAS-POLICE-CAR-TIGHT\/DALLAS-POLICE-CAR-TIGHT-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "A Dallas Police Department squad car that was shot at on Saturday morning. No officers were injured.",
+      "copyright": "Dallas Police Department"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Arizona: Bees Pose Menace ",
+    "abstract": "A particularly aggressive strain of honeybee has been menacing parts of Arizona in recent weeks, with some people getting stung so many times that they have been hospitalized.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/arizona-bees-pose-menace.html",
+    "byline": "By THE ASSOCIATED PRESS",
+    "thumbnail_standard": "",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:36:08-04:00",
+    "created_date": "2015-06-12T22:47:50-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "Brief",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Bees"],
+    "org_facet": "",
+    "per_facet": "",
+    "geo_facet": ["Arizona"],
+    "related_urls": null,
+    "multimedia": ""
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Texas: Most Shots at Melee Were Fired by Bikers, Police Say",
+    "abstract": "Chief Brent Stroman said that only three of the nearly two dozen officers outside the Twin Peaks restaurant on May 17 fired their weapons following a dispute between rival biker gangs.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/texas-most-shots-at-melee-were-fired-by-bikers-police-say.html",
+    "byline": "By THE ASSOCIATED PRESS",
+    "thumbnail_standard": "",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:36:06-04:00",
+    "created_date": "2015-06-12T22:43:15-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "Brief",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Firearms", "Motorcycles, Motor Bikes and Motorscooters", "Gangs"],
+    "org_facet": "",
+    "per_facet": "",
+    "geo_facet": ["Waco (Tex)"],
+    "related_urls": [{
+      "suggested_link_text": "Bikers Jailed After Waco Shootout Deride High Bonds and Slow Justice",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/11\/us\/waco-texas-bikers-jailed-justice.html"
+    }, {
+      "suggested_link_text": "Mass Roundup of Bikers in Waco Shootout Tests Limits of Court System",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/20\/us\/waco-texas-biker-shooting.html"
+    }, {
+      "suggested_link_text": "170 Bikers Charged in Waco, in a Rivalry Rooted in the 1960s",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/19\/us\/waco-texas-biker-gang-shooting.html"
+    }],
+    "multimedia": ""
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Ohio: Judge Approves Deal for Monitoring Cleveland Police",
+    "abstract": "Judge Solomon Oliver Jr. of Federal District Court seemed especially interested in the section of the agreement that requires officers to receive more training on use of force and bias-free policing.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/ohio-judge-approves-deal-for-monitoring-cleveland-police.html",
+    "byline": "By THE ASSOCIATED PRESS",
+    "thumbnail_standard": "",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:36:09-04:00",
+    "created_date": "2015-06-12T22:39:11-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "Brief",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Police", "Police Brutality, Misconduct and Shootings"],
+    "org_facet": ["Justice Department"],
+    "per_facet": ["Oliver, Solomon Jr"],
+    "geo_facet": ["Cleveland (Ohio)"],
+    "related_urls": [{
+      "suggested_link_text": "Cleveland Judge Finds Probable Cause to Charge Officers in Tamir Rice Death",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/12\/us\/judge-finds-probable-cause-to-charge-officers-in-tamir-rice-death.html"
+    }],
+    "multimedia": ""
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Jane Hart, Activist and Nearly an Astronaut, Dies at 93",
+    "abstract": "Ms. Hart passed NASA\u2019s astronaut training program while married to Philip A. Hart, a Democratic senator from Michigan who often found himself defending his wife\u2019s liberal views.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/jane-hart-activist-and-nearly-an-astronaut-dies-at-93.html",
+    "byline": "By WILLIAM GRIMES",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13hart-obit\/13hart-obit-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T02:56:10-04:00",
+    "created_date": "2015-06-12T22:17:01-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "Obituary (Obit)",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Deaths (Obituaries)", "Women's Rights"],
+    "org_facet": ["National Aeronautics and Space Administration"],
+    "per_facet": ["Jane Briggs Hart", "Hart, Philip A (1912-76)"],
+    "geo_facet": "",
+    "related_urls": null,
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13hart-obit\/13hart-obit-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jane Briggs Hart and Senator Philip A. Hart, Democrat of Michigan, in 1970. She would fly him to campaign stops.",
+      "copyright": "Rich Sheinwald\/Associated Press for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13hart-obit\/13hart-obit-articleInline.jpg",
+      "format": "Normal",
+      "height": 127,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jane Briggs Hart and Senator Philip A. Hart, Democrat of Michigan, in 1970. She would fly him to campaign stops.",
+      "copyright": "Rich Sheinwald\/Associated Press for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13hart-obit\/13hart-obit-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jane Briggs Hart and Senator Philip A. Hart, Democrat of Michigan, in 1970. She would fly him to campaign stops.",
+      "copyright": "Rich Sheinwald\/Associated Press for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13hart-obit\/13hart-obit-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jane Briggs Hart and Senator Philip A. Hart, Democrat of Michigan, in 1970. She would fly him to campaign stops.",
+      "copyright": "Rich Sheinwald\/Associated Press for The New York Times"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Authorities Cite Plan by 3 Men to Aid ISIS",
+    "abstract": "An affidavit says Usaamah Rahim and two others hatched a terrorism plot on a Rhode Island beach, including plans to target the police, two days before Mr. Rahim was killed in Boston.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/authorities-cite-plan-by-3-men-to-aid-isis.html",
+    "byline": "By JESS BIDGOOD",
+    "thumbnail_standard": "",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:27:44-04:00",
+    "created_date": "2015-06-12T22:16:03-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Muslims and Islam", "Terrorism", "Murders, Attempted Murders and Homicides"],
+    "org_facet": ["Islamic State in Iraq and Syria (ISIS)"],
+    "per_facet": ["Rahim, Usaamah Abdullah (1988-2015)", "Wright, David (Dawud Sharif Wright)", "Nicholas Rovinski"],
+    "geo_facet": ["Rhode Island"],
+    "related_urls": [{
+      "suggested_link_text": "Portrait of Suspect in Boston Is Disputed",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/05\/us\/portrait-of-boston-suspect-usaamah-rahim-is-disputed.html"
+    }, {
+      "suggested_link_text": "Boston Terror Suspect\u2019s\u00a0Shooting Highlights Concerns Over Reach of ISIS",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/04\/us\/usaama-rahim-boston-terrorism-suspect-planned-beheading-authorities-say.html"
+    }, {
+      "suggested_link_text": "Officers Kill Suspect Who Wielded Knife in Boston",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/03\/us\/officers-kill-suspect-who-wielded-knife-in-boston.html"
+    }, {
+      "suggested_link_text": " U.S. Muslims Take On ISIS&#8217; Recruiting Machine ",
+      "url": "http:\/\/www.nytimes.com\/2015\/02\/20\/us\/muslim-leaders-in-us-seek-to-counteract-extremist-recruiters.html"
+    }],
+    "multimedia": ""
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Gridlock Over Deficit Is Broken in Kansas",
+    "abstract": "An impasse ended Friday when the House and Senate agreed to pass a tax increase to address a $400 million budget hole, but not without some lasting bruises.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/gridlock-over-deficit-is-broken-in-kansas.html",
+    "byline": "By JOHN ELIGON",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/KANSAS\/KANSAS-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:26:10-04:00",
+    "created_date": "2015-06-12T22:05:55-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Budgets and Budgeting", "Sales and Excise Taxes", "Income Tax"],
+    "org_facet": "",
+    "per_facet": ["Brownback, Sam", "Wagle, Susan", "Donovan, Les Sr (1936- )"],
+    "geo_facet": ["Kansas"],
+    "related_urls": [{
+      "suggested_link_text": "Governor of Kansas Is Denied in Tax Battle",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/12\/us\/kansas-college-funding-is-at-risk-without-tax-increase-governor-says.html"
+    }, {
+      "suggested_link_text": "States Confront Wide Budget Gaps Even After Years of Recovery",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/08\/us\/states-confront-wide-budget-gaps-even-after-years-of-recovery.html"
+    }, {
+      "suggested_link_text": "Courts Budget Intensifies Kansas Dispute Over Powers ",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/07\/us\/courts-budget-intensifies-kansas-dispute-over-powers.html"
+    }, {
+      "suggested_link_text": "To Fill Budget Hole, Kansas G.O.P. Considers the Unthinkable: Raising Taxes ",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/30\/us\/politics\/to-fill-budget-hole-kansas-republicans-consider-the-unthinkable-raising-taxes.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/KANSAS\/KANSAS-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Susan Wagle, the Kansas Senate president, addressed a joint House-Senate caucus on Thursday with Gov. Sam Brownback.",
+      "copyright": "Bo Rader\/The Wichita Eagle, via Associated Press"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/KANSAS\/KANSAS-articleInline.jpg",
+      "format": "Normal",
+      "height": 144,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Susan Wagle, the Kansas Senate president, addressed a joint House-Senate caucus on Thursday with Gov. Sam Brownback.",
+      "copyright": "Bo Rader\/The Wichita Eagle, via Associated Press"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/KANSAS\/KANSAS-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Susan Wagle, the Kansas Senate president, addressed a joint House-Senate caucus on Thursday with Gov. Sam Brownback.",
+      "copyright": "Bo Rader\/The Wichita Eagle, via Associated Press"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/KANSAS\/KANSAS-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Susan Wagle, the Kansas Senate president, addressed a joint House-Senate caucus on Thursday with Gov. Sam Brownback.",
+      "copyright": "Bo Rader\/The Wichita Eagle, via Associated Press"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "Politics",
+    "title": "Donors Speed-Date the G.O.P. Hopefuls",
+    "abstract": "Donors took stock of the Republican field, hoping to find a candidate who not only excites them but who they believe can win a general election.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/politics\/donors-speed-date-republican-presidential-hopefuls.html",
+    "byline": "By ASHLEY PARKER",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13romeny_web1\/13romeny_web1-thumbStandard-v3.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:32:25-04:00",
+    "created_date": "2015-06-12T21:46:09-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "Political Memo",
+    "subheadline": "",
+    "des_facet": ["Presidential Election of 2016", "Campaign Finance"],
+    "org_facet": ["Republican Party"],
+    "per_facet": ["Romney, Mitt"],
+    "geo_facet": ["Park City (Utah)"],
+    "related_urls": [{
+      "suggested_link_text": "Jeb Bush Distances Himself From His Brother in Europe",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/politics\/jeb-bush-distances-himself-from-his-brother-in-europe.html"
+    }, {
+      "suggested_link_text": "Poll Shows Americans Favor an Overhaul of Campaign Financing",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/03\/us\/politics\/poll-shows-americans-favor-overhaul-of-campaign-financing.html"
+    }, {
+      "suggested_link_text": "Billionaire Lifts Marco Rubio, Politically and Personally",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/10\/us\/billionaire-lifts-marco-rubio-politically-and-personally.html"
+    }, {
+      "suggested_link_text": "Scott Walker\u2019s Strength in Donors",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/29\/upshot\/scott-walkers-strength-in-donors.html"
+    }, {
+      "suggested_link_text": "Big Money From Super PACs Is Eroding the Power of Parties",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/16\/upshot\/big-money-from-super-pacs-is-eroding-the-power-of-parties.html"
+    }, {
+      "suggested_link_text": "Moguls Busily Buying Campaign Clout",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/24\/opinion\/sunday\/moguls-busily-buying-campaign-clout.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13romeny_web1\/13romeny_web1-thumbStandard-v3.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Stein Eriksen Lodge at Deer Valley Resort outside Park City, Utah, where the E2 Summit is being held.",
+      "copyright": "Jim Urquhart\/Reuters"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13romeny_web1\/13romeny_web1-articleInline-v2.jpg",
+      "format": "Normal",
+      "height": 122,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Stein Eriksen Lodge at Deer Valley Resort outside Park City, Utah, where the E2 Summit is being held.",
+      "copyright": "Jim Urquhart\/Reuters"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13romeny_web1\/13romeny_web1-mediumThreeByTwo210-v3.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Stein Eriksen Lodge at Deer Valley Resort outside Park City, Utah, where the E2 Summit is being held.",
+      "copyright": "Jim Urquhart\/Reuters"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13romeny_web1\/13romeny_web1-mediumThreeByTwo440-v3.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Stein Eriksen Lodge at Deer Valley Resort outside Park City, Utah, where the E2 Summit is being held.",
+      "copyright": "Jim Urquhart\/Reuters"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "Politics",
+    "title": "In Europe, Leaders Take Note: Jeb Bush Isn\u2019t His Brother",
+    "abstract": "Mr. Bush, who will declare his candidacy for president on Monday, has shown a depth of knowledge and curiosity for which his brother, former President George W. Bush, was not known.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/politics\/jeb-bush-distances-himself-from-his-brother-in-europe.html",
+    "byline": "By MICHAEL BARBARO",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/BUSH\/BUSH-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T06:28:06-04:00",
+    "created_date": "2015-06-12T21:32:36-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Presidential Election of 2016"],
+    "org_facet": "",
+    "per_facet": ["Bush, Jeb", "Bush, George W"],
+    "geo_facet": ["Europe"],
+    "related_urls": [{
+      "suggested_link_text": "Berlin, Leery of One Bush, Prepares to Meet Jeb",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/09\/us\/politics\/berlin-wary-of-bush-legacy-prepares-to-meet-jeb.html"
+    }, {
+      "suggested_link_text": "Jeb Bush Faces Challenge in Winning Over Brother\u2019s Team",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/02\/us\/politics\/jeb-bush-faces-challenge-in-winning-over-brothers-team.html"
+    }, {
+      "suggested_link_text": "To Iowa G.O.P., Jeb Bush Appears to Be Ignoring the Family Playbook",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/16\/us\/politics\/is-jeb-bush-forsaking-iowa-some-republicans-hope-not.html"
+    }, {
+      "suggested_link_text": "Jeb Bush Adopts a Surprising Style in Eco-Friendly Miami Beach",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/27\/us\/politics\/jeb-bushs-anticipated-campaign-embraces-south-florida-style.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/BUSH\/BUSH-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jeb Bush and his wife, Columba, stopped at the Warsaw Uprising Museum\u2019s memorial wall on Thursday.",
+      "copyright": "Kacper Pempel\/Reuters"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/BUSH\/BUSH-articleInline.jpg",
+      "format": "Normal",
+      "height": 127,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jeb Bush and his wife, Columba, stopped at the Warsaw Uprising Museum\u2019s memorial wall on Thursday.",
+      "copyright": "Kacper Pempel\/Reuters"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/BUSH\/BUSH-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jeb Bush and his wife, Columba, stopped at the Warsaw Uprising Museum\u2019s memorial wall on Thursday.",
+      "copyright": "Kacper Pempel\/Reuters"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/BUSH\/BUSH-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Jeb Bush and his wife, Columba, stopped at the Warsaw Uprising Museum\u2019s memorial wall on Thursday.",
+      "copyright": "Kacper Pempel\/Reuters"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "Politics",
+    "title": "White House Weighs Sanctions After Second Breach of a Computer System ",
+    "abstract": "Officials said that the second system contained files related to intelligence officials working for the F.B.I., defense contractors and other government agencies.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/white-house-weighs-sanctions-after-second-breach-of-a-computer-system.html",
+    "byline": "By MICHAEL D. SHEAR and SCOTT SHANE",
+    "thumbnail_standard": "",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:26:09-04:00",
+    "created_date": "2015-06-12T21:15:19-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Cyberwarfare and Defense", "Computer Security"],
+    "org_facet": "",
+    "per_facet": ["Obama, Barack"],
+    "geo_facet": ["China", "United States"],
+    "related_urls": [{
+      "suggested_link_text": "Chinese Hackers Circumvent Popular Web Privacy Tools",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/technology\/chinese-hackers-circumvent-popular-web-privacy-tools.html"
+    }, {
+      "suggested_link_text": "Senate Rejects Measure to Strengthen Cybersecurity",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/12\/us\/politics\/senate-rejects-measure-to-strengthen-cybersecurity.html"
+    }, {
+      "suggested_link_text": "Hackers May Have Obtained Names of Chinese With Ties to U.S. Government",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/11\/world\/asia\/hackers-may-have-obtained-names-of-chinese-with-ties-to-us-government.html"
+    }, {
+      "suggested_link_text": "U.S. Was Warned of System Open to Cyberattacks",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/06\/us\/chinese-hackers-may-be-behind-anthem-premera-attacks.html"
+    }, {
+      "suggested_link_text": "Hacking Linked to China Exposes Millions of U.S. Workers",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/05\/us\/breach-in-a-federal-computer-system-exposes-personnel-data.html"
+    }],
+    "multimedia": ""
+  }, {
+    "section": "U.S.",
+    "subsection": "Politics",
+    "title": "Many Choices for Obama in Replacing Billington at Library of Congress",
+    "abstract": "Michael S. Roth of Wesleyan, Drew Gilpin Faust of Harvard, and Douglas Brinkley, the historian, are among those mentioned as potential successors to James H. Billington.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/politics\/many-choices-for-obama-in-replacing-james-billington-at-library-of-congress.html",
+    "byline": "By MICHAEL D. SHEAR",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/LIBRARYsub\/LIBRARYsub-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:31:53-04:00",
+    "created_date": "2015-06-12T21:01:06-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Appointments and Executive Changes", "Libraries and Librarians", "Archives and Records"],
+    "org_facet": ["Library of Congress", "American Library Assn"],
+    "per_facet": ["Billington, James H", "Obama, Barack"],
+    "geo_facet": "",
+    "related_urls": [{
+      "suggested_link_text": "Library of Congress Chief Retires Under Fire",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/11\/us\/library-of-congress-chief-james-hadley-billington-leaving-after-nearly-3-decades.html"
+    }, {
+      "suggested_link_text": "Digital Neglect at the Library of Congress",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/05\/opinion\/sunday\/digital-neglect-at-the-library-of-congress.html"
+    }, {
+      "suggested_link_text": "The Great Library Jefferson Began, and How It Grew",
+      "url": "http:\/\/www.nytimes.com\/2009\/01\/16\/arts\/design\/16cong.html"
+    }, {
+      "suggested_link_text": "As Works Flood In, Nation\u2019s Library Treads Water",
+      "url": "http:\/\/www.nytimes.com\/2013\/05\/04\/books\/budget-cuts-hobble-library-of-congress.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/LIBRARYsub\/LIBRARYsub-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Visitors at the Great Hall of the Library of Congress in Washington. The library has about 3,100 employees and an annual budget of more than $600 million.",
+      "copyright": "Gabriella Demczuk for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/LIBRARYsub\/LIBRARYsub-articleInline.jpg",
+      "format": "Normal",
+      "height": 127,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Visitors at the Great Hall of the Library of Congress in Washington. The library has about 3,100 employees and an annual budget of more than $600 million.",
+      "copyright": "Gabriella Demczuk for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/LIBRARYsub\/LIBRARYsub-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Visitors at the Great Hall of the Library of Congress in Washington. The library has about 3,100 employees and an annual budget of more than $600 million.",
+      "copyright": "Gabriella Demczuk for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/LIBRARYsub\/LIBRARYsub-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Visitors at the Great Hall of the Library of Congress in Washington. The library has about 3,100 employees and an annual budget of more than $600 million.",
+      "copyright": "Gabriella Demczuk for The New York Times"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Indianapolis Rallies Around Its Gay Citizens After a Law Sets Off a Flood of Support",
+    "abstract": "At this week\u2019s pride festivities in Indiana, gay residents say much has changed for the better since passage of the state\u2019s religious exceptions law.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/indiana-gay-community-grows-in-confidence-and-pride.html",
+    "byline": "By MITCH SMITH",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/INDY02\/INDY02-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:26:10-04:00",
+    "created_date": "2015-06-12T19:27:13-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "Indianapolis Journal",
+    "subheadline": "",
+    "des_facet": ["Homosexuality and Bisexuality", "Discrimination"],
+    "org_facet": "",
+    "per_facet": ["Pence, Mike"],
+    "geo_facet": ["Indiana"],
+    "related_urls": [{
+      "suggested_link_text": "Indiana Residents Rue Damage to State\u2019s Welcoming Reputation",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/05\/us\/indiana-residents-rue-damage-to-states-welcoming-reputation.html"
+    }, {
+      "suggested_link_text": "Context for the Debate on \u2018Religious Freedom\u2019 Measures in Indiana and Arkansas",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/01\/us\/politics\/context-for-the-debate-on-religious-freedom-measures-in-indiana-and-arkansas.html"
+    }, {
+      "suggested_link_text": "Indiana Governor, Feeling Backlash From Law&#8217;s Opponents, Promises a &#8216;Fix&#8217;",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/01\/us\/politics\/indiana-governor-mike-pence-feeling-backlash-from-religious-laws-opponents-promises-a-fix.html"
+    }, {
+      "suggested_link_text": "Religious Protection Laws, Once Called Shields, Are Now Seen as Cudgels",
+      "url": "http:\/\/www.nytimes.com\/2015\/03\/31\/us\/politics\/religious-protection-laws-once-called-shields-are-now-seen-as-cudgels.html"
+    }, {
+      "suggested_link_text": "Indiana Law Denounced as Invitation to Discriminate Against Gays",
+      "url": "http:\/\/www.nytimes.com\/2015\/03\/28\/us\/politics\/indiana-law-denounced-as-invitation-to-discriminate-against-gays.html"
+    }, {
+      "suggested_link_text": "Religious Liberty and Equality",
+      "url": "http:\/\/www.nytimes.com\/2015\/03\/31\/opinion\/david-brooks-religious-liberty-and-equality.html"
+    }, {
+      "suggested_link_text": "In Indiana, Using Religion as a Cover for Bigotry",
+      "url": "http:\/\/www.nytimes.com\/2015\/03\/31\/opinion\/in-indiana-using-religion-as-a-cover-for-bigotry.html"
+    }, {
+      "suggested_link_text": "Religious Freedom vs. Individual Equality",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/02\/opinion\/charles-blow-religious-freedom-vs-individual-equality.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/INDY02\/INDY02-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Latrina Bidet, a drag performer, entertained patrons at a fund-raising event in Indianapolis on Thursday.",
+      "copyright": "Aaron P. Bernstein for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/INDY02\/INDY02-articleInline.jpg",
+      "format": "Normal",
+      "height": 124,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Latrina Bidet, a drag performer, entertained patrons at a fund-raising event in Indianapolis on Thursday.",
+      "copyright": "Aaron P. Bernstein for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/INDY02\/INDY02-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Latrina Bidet, a drag performer, entertained patrons at a fund-raising event in Indianapolis on Thursday.",
+      "copyright": "Aaron P. Bernstein for The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/INDY02\/INDY02-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Latrina Bidet, a drag performer, entertained patrons at a fund-raising event in Indianapolis on Thursday.",
+      "copyright": "Aaron P. Bernstein for The New York Times"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Chicago Court Gives Woman Frozen Embryos Despite Ex-Boyfriend\u2019s Objections",
+    "abstract": "When the couple who created the embryos disagree, who gets custody? Here, a court ruled for a woman whose fertility was destroyed by cancer treatment.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/chicago-court-awards-woman-embryos-over-ex-boyfriends-wishes.html",
+    "byline": "By TAMAR LEWIN",
+    "thumbnail_standard": "",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:26:09-04:00",
+    "created_date": "2015-06-12T19:16:16-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Infertility"],
+    "org_facet": "",
+    "per_facet": ["Karla Dunston", "Jacob Szafranski"],
+    "geo_facet": ["Chicago (Ill)"],
+    "related_urls": [{
+      "suggested_link_text": "Sof\u00eda Vergara\u2019s Ex-Fianc\u00e9: Our Frozen Embryos Have a Right to Live",
+      "url": "http:\/\/www.nytimes.com\/2015\/04\/30\/opinion\/sofiavergaras-ex-fiance-our-frozen-embryos-have-a-right-to-live.html"
+    }],
+    "multimedia": ""
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "An Opus Dei Priest With a Magnetic Touch",
+    "abstract": "The Rev. C. John McCloskey III has personally prepared a who\u2019s-who list of conservatives, from Gov. Sam Brownback of Kansas to the Supreme Court nominee Robert H. Bork, for conversion to Catholicism.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/rev-c-john-mccloskey-iii-an-opus-dei-priest-with-a-magnetic-touch.html",
+    "byline": "By MARK OPPENHEIMER",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13beliefs-web01\/13beliefs-web01-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:36:09-04:00",
+    "created_date": "2015-06-12T18:19:11-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "Beliefs",
+    "subheadline": "",
+    "des_facet": ["Religion and Belief"],
+    "org_facet": ["Opus Dei", "Roman Catholic Church"],
+    "per_facet": ["McCloskey, C. John III"],
+    "geo_facet": "",
+    "related_urls": null,
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13beliefs-web01\/13beliefs-web01-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Rev. C. John McCloskey III in 2002.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13beliefs-web01\/13beliefs-web01-articleInline.jpg",
+      "format": "Normal",
+      "height": 274,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Rev. C. John McCloskey III in 2002.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13beliefs-web01\/13beliefs-web01-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Rev. C. John McCloskey III in 2002.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13beliefs-web01\/13beliefs-web01-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The Rev. C. John McCloskey III in 2002.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "Politics",
+    "title": "Guant\u00e1namo Detainee\u2019s Conviction Is Thrown Out on Appeal",
+    "abstract": "A decision with implications for the debate over whether foreign terror suspects should be prosecuted in civilian court or before military commissions.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/ruling-finds-tribunal-is-no-place-for-guantanamo-detainees-case.html",
+    "byline": "By CHARLIE SAVAGE",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13gitmo-web\/13gitmo-web-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:31:49-04:00",
+    "created_date": "2015-06-12T17:29:28-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Military Tribunals", "Terrorism"],
+    "org_facet": "",
+    "per_facet": ["Bahlul, Ali al-"],
+    "geo_facet": "",
+    "related_urls": [{
+      "suggested_link_text": "U.S. to Restart Tribunal, Aiming to Show It\u2019s Fair",
+      "url": "http:\/\/www.nytimes.com\/2012\/05\/05\/us\/us-to-restart-tribunal-aiming-to-show-its-fair.html"
+    }, {
+      "suggested_link_text": "U.S. to Press Fight of Detainee\u2019s Appeal",
+      "url": "http:\/\/www.nytimes.com\/2013\/01\/10\/us\/us-to-press-fight-of-detainees-appeal.html"
+    }, {
+      "suggested_link_text": "A Federal Appeals Court Sidesteps How to Prosecute Detainees",
+      "url": "http:\/\/www.nytimes.com\/2014\/07\/15\/us\/politics\/court-sidesteps-how-to-prosecute-detainees.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13gitmo-web\/13gitmo-web-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The detainee, Ali al-Bahlul.",
+      "copyright": "Department of Defense"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13gitmo-web\/13gitmo-web-articleInline.jpg",
+      "format": "Normal",
+      "height": 275,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The detainee, Ali al-Bahlul.",
+      "copyright": "Department of Defense"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13gitmo-web\/13gitmo-web-mediumThreeByTwo210-v2.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The detainee, Ali al-Bahlul.",
+      "copyright": "Department of Defense"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13gitmo-web\/13gitmo-web-mediumThreeByTwo440-v2.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "The detainee, Ali al-Bahlul.",
+      "copyright": "Department of Defense"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "California Cuts Farmers\u2019 Share of Scant Water",
+    "abstract": "Farmers with longtime rights to California water will face cutbacks, the first reduction in their usage since 1977, state officials announced Friday.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/california-announces-restrictions-on-water-use-by-farmers.html",
+    "byline": "By JENNIFER MEDINA",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13drought-web\/13drought-web-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:53:08-04:00",
+    "created_date": "2015-06-12T16:02:23-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Water", "Agriculture and Farming"],
+    "org_facet": "",
+    "per_facet": ["Brown, Edmund G Jr"],
+    "geo_facet": ["California"],
+    "related_urls": [{
+      "suggested_link_text": "Californians Are Encouraged by Sharp Drop in Water Use",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/03\/us\/californians-are-encouraged-by-sharp-drop-in-water-use.html"
+    }, {
+      "suggested_link_text": "Farmers Agree to Water Cuts in California",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/23\/us\/some-california-farmers-to-cut-water-use-to-ease-drought.html"
+    }, {
+      "suggested_link_text": "California Farmers Offer Concession in Drought",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/22\/us\/california-farmers-offer-concession-in-drought.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13drought-web\/13drought-web-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Agricultural fields in Thermal, Calif. The state is facing a prolonged drought that shows few signs of easing.",
+      "copyright": "Damon Winter\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13drought-web\/13drought-web-articleInline.jpg",
+      "format": "Normal",
+      "height": 127,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Agricultural fields in Thermal, Calif. The state is facing a prolonged drought that shows few signs of easing.",
+      "copyright": "Damon Winter\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13drought-web\/13drought-web-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Agricultural fields in Thermal, Calif. The state is facing a prolonged drought that shows few signs of easing.",
+      "copyright": "Damon Winter\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13drought-web\/13drought-web-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Agricultural fields in Thermal, Calif. The state is facing a prolonged drought that shows few signs of easing.",
+      "copyright": "Damon Winter\/The New York Times"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "Politics",
+    "title": "Washington Dysfunction, With a Twist: Democrats Desert Their President",
+    "abstract": "Though many Republicans supported President Obama on the trade bill, his fellow Democrats in the House did not, contending that the legislation would exacerbate income inequality.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/politics\/democrats-revolt-on-trade-bill-obama.html",
+    "byline": "By PETER BAKER and JENNIFER STEINHAUER",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/ASSESS\/ASSESS-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:26:08-04:00",
+    "created_date": "2015-06-12T15:19:17-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News Analysis",
+    "kicker": "News Analysis",
+    "subheadline": "",
+    "des_facet": ["United States Politics and Government"],
+    "org_facet": ["Democratic Party", "House of Representatives"],
+    "per_facet": ["Obama, Barack"],
+    "geo_facet": "",
+    "related_urls": [{
+      "suggested_link_text": "Trade Deal\u2019s Setback Left Wall Street Unmoved. Why?",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/upshot\/trade-deals-setback-left-wall-street-unmoved-why.html"
+    }, {
+      "suggested_link_text": "Business Leaders React With Dismay to Defeat of Trade Bill ",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/business\/business-leaders-react-with-dismay-to-defeat-of-trade-bill.html"
+    }, {
+      "suggested_link_text": "The Trans-Pacific Partnership Trade Deal Explained",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/12\/business\/unpacking-the-trans-pacific-partnership-trade-deal.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/ASSESS\/ASSESS-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Demonstrators showing their opposition to President Obama\u2019s trade agenda on Friday lined his route to a meeting with House Democrats, who largely voted against the president\u2019s plan.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/ASSESS\/ASSESS-articleInline.jpg",
+      "format": "Normal",
+      "height": 127,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Demonstrators showing their opposition to President Obama\u2019s trade agenda on Friday lined his route to a meeting with House Democrats, who largely voted against the president\u2019s plan.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/ASSESS\/ASSESS-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Demonstrators showing their opposition to President Obama\u2019s trade agenda on Friday lined his route to a meeting with House Democrats, who largely voted against the president\u2019s plan.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/ASSESS\/ASSESS-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Demonstrators showing their opposition to President Obama\u2019s trade agenda on Friday lined his route to a meeting with House Democrats, who largely voted against the president\u2019s plan.",
+      "copyright": "Stephen Crowley\/The New York Times"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Louisiana Court Blocks Release of \u2018Angola Three\u2019 Inmate",
+    "abstract": "A three-judge panel ruled that Albert Woodfox, who has served nearly 40 years for the murder of a prison guard, should stay in prison as the state appeals a federal order to free him.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/louisiana-angola-albert-woodfox.html",
+    "byline": "By CAMPBELL ROBERTSON",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/11\/us\/11angola-web\/11angola-web-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T01:31:52-04:00",
+    "created_date": "2015-06-12T15:00:05-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": "",
+    "org_facet": ["Louisiana State Penitentiary"],
+    "per_facet": ["Woodfox, Albert"],
+    "geo_facet": ["Louisiana"],
+    "related_urls": [{
+      "suggested_link_text": "On Tortuous Road to Freedom, \u2018Angola Three\u2019 Inmate Bides His Time",
+      "url": "http:\/\/www.nytimes.com\/2015\/06\/11\/us\/on-tortuous-road-to-freedom-angola-three-inmate-albert-woodfox-bides-his-time.html"
+    }, {
+      "suggested_link_text": "Herman Wallace, Freed After 41 Years in Solitary, Dies at 71",
+      "url": "http:\/\/www.nytimes.com\/2013\/10\/05\/us\/herman-wallace-held-41-years-in-solitary-dies-at-71.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/11\/us\/11angola-web\/11angola-web-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Albert Woodfox has spent nearly all of the past 43 years in solitary confinement at the Louisiana State Penitentiary for the killing of a\u00a0 prison guard in 1972.",
+      "copyright": "Angola3.Org, via European Pressphoto Agency"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/11\/us\/11angola-web\/11angola-web-articleInline.jpg",
+      "format": "Normal",
+      "height": 230,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Albert Woodfox has spent nearly all of the past 43 years in solitary confinement at the Louisiana State Penitentiary for the killing of a\u00a0 prison guard in 1972.",
+      "copyright": "Angola3.Org, via European Pressphoto Agency"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/11\/us\/11angola-web\/11angola-web-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Albert Woodfox has spent nearly all of the past 43 years in solitary confinement at the Louisiana State Penitentiary for the killing of a\u00a0 prison guard in 1972.",
+      "copyright": "Angola3.Org, via European Pressphoto Agency"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/11\/us\/11angola-web\/11angola-web-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Albert Woodfox has spent nearly all of the past 43 years in solitary confinement at the Louisiana State Penitentiary for the killing of a\u00a0 prison guard in 1972.",
+      "copyright": "Angola3.Org, via European Pressphoto Agency"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Los Angeles Confronts a Spike in Homelessness Amid Prosperity",
+    "abstract": "A report that the homeless population of Los Angeles County rose 12 percent in two years has set off a wave of concern and raised questions about gentrification.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/14\/us\/los-angeles-confronts-a-spike-in-homelessness-amid-prosperity.html",
+    "byline": "By ADAM NAGOURNEY",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/05\/31\/us\/00homeless-web01\/00homeless-web01-thumbStandard.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T02:58:40-04:00",
+    "created_date": "2015-06-12T12:20:24-04:00",
+    "published_date": "2015-06-14T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Homeless Persons", "Veterans"],
+    "org_facet": "",
+    "per_facet": "",
+    "geo_facet": ["Los Angeles (Calif)"],
+    "related_urls": [{
+      "suggested_link_text": "Homeless in New York City, an Unending Crisis",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/07\/opinion\/homeless-in-new-york-city-an-unending-crisis.html"
+    }, {
+      "suggested_link_text": "Mayor de Blasio\u2019s Budget Commits $100 Million to Combat Homelessness in New York",
+      "url": "http:\/\/www.nytimes.com\/2015\/05\/07\/nyregion\/mayor-de-blasios-budget-commits-100-million-to-combat-homelessness-in-new-york.html"
+    }],
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/05\/31\/us\/00homeless-web01\/00homeless-web01-thumbStandard.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Downtown Los Angeles last month.",
+      "copyright": "Monica Almeida\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/05\/31\/us\/00homeless-web01\/00homeless-web01-articleInline.jpg",
+      "format": "Normal",
+      "height": 127,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Downtown Los Angeles last month.",
+      "copyright": "Monica Almeida\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/05\/31\/us\/00homeless-web01\/00homeless-web01-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Downtown Los Angeles last month.",
+      "copyright": "Monica Almeida\/The New York Times"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/05\/31\/us\/00homeless-web01\/00homeless-web01-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Downtown Los Angeles last month.",
+      "copyright": "Monica Almeida\/The New York Times"
+    }]
+  }, {
+    "section": "U.S.",
+    "subsection": "",
+    "title": "Black or White? Woman\u2019s Story Stirs Up a Furor",
+    "abstract": "The parents of Rachel A. Dolezal, an N.A.A.C.P. leader in Spokane, Wash., say she is white, and her story has stirred a national debate about racial identity.",
+    "url": "http:\/\/www.nytimes.com\/2015\/06\/13\/us\/rachel-dolezal-naacp-president-accused-of-lying-about-her-race.html",
+    "byline": "By RICHARD P\u00c9REZ-PE\u00d1A",
+    "thumbnail_standard": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13naacp-web\/13naacp-web-thumbStandard-v2.jpg",
+    "item_type": "Article",
+    "source": "The New York Times",
+    "updated_date": "2015-06-13T02:04:09-04:00",
+    "created_date": "2015-06-12T11:35:47-04:00",
+    "published_date": "2015-06-13T00:00:00-04:00",
+    "material_type_facet": "News",
+    "kicker": "",
+    "subheadline": "",
+    "des_facet": ["Race and Ethnicity", "Social Media"],
+    "org_facet": ["National Assn for the Advancement of Colored People"],
+    "per_facet": ["Dolezal, Rachel "],
+    "geo_facet": ["Spokane (Wash)"],
+    "related_urls": null,
+    "multimedia": [{
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13naacp-web\/13naacp-web-thumbStandard-v2.jpg",
+      "format": "Standard Thumbnail",
+      "height": 75,
+      "width": 75,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Rachel Dolezal, center, president of the NAACP in Spokane, Wash.,\u00a0 before the start of a Black Lives Matter Teach-In in January.",
+      "copyright": "Tyler Tjomsland\/The Spokesman-Review, via Associated Press"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13naacp-web\/13spokane-web-articleInline.jpg",
+      "format": "Normal",
+      "height": 135,
+      "width": 190,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Rachel Dolezal, center, president of the NAACP in Spokane, Wash.,\u00a0 before the start of a Black Lives Matter Teach-In in January.",
+      "copyright": "Tyler Tjomsland\/The Spokesman-Review, via Associated Press"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13naacp-web\/13spokane-web-mediumThreeByTwo210.jpg",
+      "format": "mediumThreeByTwo210",
+      "height": 140,
+      "width": 210,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Rachel Dolezal, center, president of the NAACP in Spokane, Wash.,\u00a0 before the start of a Black Lives Matter Teach-In in January.",
+      "copyright": "Tyler Tjomsland\/The Spokesman-Review, via Associated Press"
+    }, {
+      "url": "http:\/\/static01.nyt.com\/images\/2015\/06\/13\/us\/13naacp-web\/13spokane-web-mediumThreeByTwo440.jpg",
+      "format": "mediumThreeByTwo440",
+      "height": 293,
+      "width": 440,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "Rachel Dolezal, center, president of the NAACP in Spokane, Wash.,\u00a0 before the start of a Black Lives Matter Teach-In in January.",
+      "copyright": "Tyler Tjomsland\/The Spokesman-Review, via Associated Press"
+    }]
+  }]
+}
