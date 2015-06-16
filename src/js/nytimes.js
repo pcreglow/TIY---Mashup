@@ -1,6 +1,6 @@
 (function(window) {
 
-  $.getJSON("http://api.nytimes.com/svc/news/v3/content/nyt/U.S./24.json?api-key=be509e8749c02c301c8cc4f3b2ff14d6%3A12%3A56418998&callback=callbackTopStories")
+  $.getJSON("../api/nytimes_24.json")
     .then(function(nytimes) {
       console.log(nytimes);
 
